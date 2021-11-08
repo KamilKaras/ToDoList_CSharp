@@ -1,0 +1,16 @@
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.exe
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.deps.json
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.json
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.runtimeconfig.dev.json
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.dll
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ref\ToDoList.dll
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\bin\Debug\net5.0\ToDoList.pdb
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.dll
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.pdb
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.genruntimeconfig.cache
+C:\Kamil\Kursy\Zmiana_pracay\C#\Cwiczenia\20211108\ToDoList\obj\Debug\net5.0\ToDoList.csproj.AssemblyReference.cache
